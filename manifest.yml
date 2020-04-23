@@ -1,0 +1,8 @@
+ 
+---
+applications:
+- name: simple-website-convidaC4C_frontend
+  buildpacks:
+  - https://github.com/cloudfoundry/staticfile-buildpack.git
+  memory: 32M
+  stack: cflinuxfs3
