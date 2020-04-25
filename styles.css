@@ -31,5 +31,15 @@ footer {
 }
 
 #chatbot{
-
+  padding: 140px;
 }
+
+.WACLauncher__ButtonContainer {
+    margin-right: 50% !important;
+}
+
+#WACWidget{
+   margin-right: 38%;
+   margin-bottom: 43px;
+}
+    
