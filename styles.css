@@ -1,0 +1,35 @@
+header {
+  background-color: #666;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	height:300px
+	width.100%
+}
+
+article {
+  float: left;
+  padding: 240px;
+  width: 72.5%;
+  background-color: #f1f1f1;
+  height: 300px;
+}
+
+footer {
+  background-color: #777;
+  text-align: center;
+  color: #777;
+}
+
+#chatbot{
+
+}
